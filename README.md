@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+| [0867-transpose-matrix](https://github.com/vtu25515/APS/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu25515/APS/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
 ## Prefix Sum
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu25515/APS/tree/master/1704-determine-if-string-halves-are-alike) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25515/APS/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
