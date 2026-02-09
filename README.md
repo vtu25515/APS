@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+| [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
