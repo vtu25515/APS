@@ -51,9 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25515/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25515/APS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25515/APS/tree/master/0918-maximum-sum-circular-subarray) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25515/APS/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25515/APS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
