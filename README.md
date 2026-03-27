@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25515/APS/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
 | [0867-transpose-matrix](https://github.com/vtu25515/APS/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25515/APS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/vtu25515/APS/tree/master/1314-matrix-block-sum) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25515/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25515/APS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25515/APS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25515/APS/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
