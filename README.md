@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25515/APS/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu25515/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu25515/APS/tree/master/0641-design-circular-deque) |
 | [0867-transpose-matrix](https://github.com/vtu25515/APS/tree/master/0867-transpose-matrix) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu25515/APS/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu25515/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu25515/APS/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25515/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu25515/APS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu25515/APS/tree/master/0641-design-circular-deque) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu25515/APS/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
